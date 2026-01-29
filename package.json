@@ -1,7 +1,7 @@
 {
   "name": "ai-audit-fix",
   "version": "1.0.0",
-  "description": "Analyze npm audit output with AI and get actionable fix suggestions",
+  "description": "AI-powered npm audit fixer - resolve vulnerabilities with intelligent upgrade suggestions",
   "main": "dist/index.js",
   "bin": {
     "ai-audit-fix": "dist/cli.js"
@@ -9,7 +9,24 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ["npm", "audit", "security", "ai", "fix", "vulnerability"],
+  "keywords": [
+    "ai",
+    "openai",
+    "gpt",
+    "npm",
+    "audit",
+    "security",
+    "vulnerability",
+    "devsecops",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "dependencies",
+    "fix",
+    "patch"
+  ],
   "license": "MIT",
   "dependencies": {
     "commander": "^12.1.0",
