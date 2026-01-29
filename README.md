@@ -1,5 +1,10 @@
 # ai-audit-fix
 
+[![npm version](https://img.shields.io/npm/v/ai-audit-fix.svg)](https://www.npmjs.com/package/ai-audit-fix)
+[![npm downloads](https://img.shields.io/npm/dm/ai-audit-fix.svg)](https://www.npmjs.com/package/ai-audit-fix)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Analyze npm audit output with AI and get clear, actionable fix suggestions instead of cryptic vulnerability reports.
 
 ## Install
