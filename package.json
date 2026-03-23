@@ -37,17 +37,17 @@
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/lxgicstudios/ai-audit-fix#readme",
+  "homepage": "https://github.com/LXGIC-Studios/ai-audit-fix#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/ai-audit-fix.git"
+    "url": "git+https://github.com/LXGIC-Studios/ai-audit-fix.git"
   },
   "bugs": {
     "url": "https://github.com/lxgicstudios/ai-audit-fix/issues"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/lxgicstudios"
+    "url": "https://github.com/sponsors/LXGIC-Studios"
   },
   "engines": {
     "node": ">=18.0.0"
