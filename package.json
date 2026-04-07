@@ -1,5 +1,5 @@
 {
-  "name": "ai-audit-fix",
+  "name": "@lxgicstudios/ai-audit-fix",
   "version": "1.0.0",
   "description": "AI-powered npm audit fixer - resolve vulnerabilities with intelligent upgrade suggestions",
   "main": "dist/index.js",
