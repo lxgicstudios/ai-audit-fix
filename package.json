@@ -15,35 +15,42 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "npm",
     "audit",
-    "security",
-    "vulnerability",
-    "devsecops",
-    "developer-tools",
-    "cli",
     "automation",
-    "typescript",
-    "nodejs",
+    "claude",
+    "cli",
+    "code-quality",
     "dependencies",
-    "fix",
-    "patch"
+    "developer-productivity",
+    "developer-tools",
+    "devsecops",
+    "discoverability",
+    "generative-ai",
+    "javascript",
+    "linting",
+    "llm-optimized",
+    "modern-seo",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-audit-fix#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-audit-fix.git"
+    "url": "https://github.com/LXGIC-Studios/ai-audit-fix"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-audit-fix/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-audit-fix/issues"
   },
   "funding": {
     "type": "github",
