@@ -8,7 +8,7 @@
     "ai-audit-fix": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/npm-tools/issues"
+    "url": "https://github.com/LXGIC-Studios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -31,13 +31,15 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-audit-fix",
+  "homepage": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-audit-fix",
   "keywords": [
     "npm-audit",
     "vulnerability",
     "security-fix",
     "dependencies",
-    "supply-chain"
+    "supply-chain",
+    "seo-audit",
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -48,7 +50,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "url": "git+https://github.com/LXGIC-Studios/npm-tools.git",
     "directory": "ai-audit-fix"
   },
   "scripts": {
