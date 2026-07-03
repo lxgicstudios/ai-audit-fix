@@ -37,7 +37,9 @@
     "vulnerability",
     "security-fix",
     "dependencies",
-    "supply-chain"
+    "supply-chain",
+    "seo-audit",
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
